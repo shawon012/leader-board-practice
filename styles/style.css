@@ -12,7 +12,7 @@ main{
 .first-section{
     background-color: #Ffffff;
     width: 870px;
-    padding: 12px 34px 35px;
+    padding: 12px 34px 0px;
 }
 .first-section .top h3{
     color:#562EFF;
@@ -40,6 +40,45 @@ main{
 }
 .first-section hr{
     border: 1px solid #D1D1D1;
+    margin-bottom: 30px;
+    margin-top: 0px;
 
 }
 /* first section  */
+
+/* new part started */
+.top-blogs .topB h3{
+    color:#562EFF;
+    font-size: 24px;
+    font-weight: 400;
+    padding-bottom: 31px;
+}
+.blogs .image img{
+    width: 177px;
+    height: 117px;
+}
+.description .title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    margin: 0px;
+    margin-bottom: 6px;
+}
+.description .author{
+    font-size: 16px;
+    font-weight:500;
+    color: #9f9f9f; 
+    margin: 0px; 
+}
+.description .author a{
+    text-decoration:  none;
+    font-size:16 px;
+    font-weight: 500;
+    color: #562EFF;
+}
+.blogs .description{
+    margin-left:16px ;
+}
+.blogs{
+    display: flex;
+}
