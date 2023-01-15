@@ -163,3 +163,14 @@ color: #1E1E1E;
     display: flex;
     align-items: center;
 }
+/* NOW ITS TIME TO MAKE BETTER  */
+.parent-div{
+    background-color: #Ffffff;
+    background-color:;
+    
+}
+.gradpa{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+}
