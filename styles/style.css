@@ -122,3 +122,44 @@ main {
     font-weight: 400;
     padding-bottom: 16px;
 }
+.course .image img{
+    width: 224px;
+    height: 104px;
+}
+.course-description-react p{
+font-weight: 500;
+font-size: 20px;
+color: #1E1E1E;
+}
+.author1 .author-name{
+    font-weight: 400;
+    font-size: 15;
+    color: #ED6B4f;
+}
+.star .a{
+    color: #ffc014;
+}
+.star .b{
+    color: #AEAEAE;
+    margin-right: 10px;
+}
+.rate .rating{
+    font-weight: 400;
+    font-size: 15;
+    color: #A2A2A2;
+    margin-right: 25px;
+}
+.rate-hr .hour{
+    background-color: #ffe4e8;
+    color: #ff4a60;
+    border-radius: 15px;
+    padding: 10px;
+}
+.hour .time{
+    font-weight: 600;
+    font-size: 15px;
+}
+.rate-hr{
+    display: flex;
+    align-items: center;
+}
